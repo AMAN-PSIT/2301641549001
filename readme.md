@@ -23,4 +23,9 @@ Features:
 1. Clone the repository:
 ```bash
 git clone https://github.com/AMAN-PSIT/2301641549001.git
+```
 
+<img width="1870" height="995" alt="Screenshot 2025-09-08 133027" src="https://github.com/user-attachments/assets/12fd215f-82a0-4b3c-abf2-8b68e8c04365" />
+
+
+<img width="1894" height="989" alt="Screenshot 2025-09-08 133037" src="https://github.com/user-attachments/assets/b3b181eb-5314-4d95-9a6a-65da735201ec" />
